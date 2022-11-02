@@ -1,0 +1,25 @@
+*{
+    margin: 0; padding: 0;
+}
+
+
+
+#index{
+    font-size: 4rem;
+    margin-top: 2rem ;
+}
+
+
+#box{
+    height: 100vh;
+    width: 100vw;
+    padding: 10% 2%;
+    background-image: linear-gradient(rgb(87, 105, 224), rgb(80, 215, 232), rgb(122, 218, 114));
+    
+}
+#weather{
+    color: blueviolet;
+    margin-top: 2rem;
+    font-size: 4rem;
+    margin-top: 2rem ;
+}
